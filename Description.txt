@@ -1,0 +1,13 @@
+TUGAS UAS KELOMPOK 7 :
+-ADITYA  PRATAMA WERDANA (312210670)
+-MIA LARASATI MUKTI      (312210676)
+-MUAZMAR SB              (312210677)
+
+
+
+
+
+DESCRIPTION PROJECT :
+Membuat Aplikasi Pengembalian Rental Mobil, 
+Dimana User bisa mengupdate data (menambah, mengedit, dan menghapus)
+Terdapat Dashboard yang berisikan : Data user aktif, Data pengembalian mobil, detail mobil yang disewakan, dan status dari peminjaman.
